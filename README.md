@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm SREEHARI RAJAMOHAN</h1>
 <h3 align="center"> I am an analytical professional with a Bachelor's degree from NIT Calicut and a certification in Machine Learning from Stanford Online. Over the past two years, I've specialized in content analysis, driving strategic decisions and optimizing performance through data interpretation. </h3>
 
+- 👨‍💻 My Portfolio  https://sreehari32.github.io/sreeharirajamohan.github.io/
 - 👨‍💻 My tableau projects are available at [https://public.tableau.com/app/profile/sreehari.rajamohan/vizzes](https://public.tableau.com/app/profile/sreehari.rajamohan/vizzes)
 
 - 📫 How to reach me **sreehari32@gmail.com**
